@@ -9,7 +9,8 @@ public class AddToPositiveOrNegativeSum {
             /* in this block, allow the user to input a number and add the number to the appropriate sum */
 
 
-        }
+        } // end of for loop
+
         // output the sums. Make sure the format matches the sample
 
     }
