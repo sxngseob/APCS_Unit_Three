@@ -22,7 +22,7 @@ public class SlopeTests {
     @Test
     void SlopeOfALineTest3() {
         String result = SlopeOfALine.slope(5, 7, 9, 4);
-        String expected = "The line defined by the points (5, 7) and (9, 4) has a slope of 0.75";
+        String expected = "The line defined by the points (5, 7) and (9, 4) has a slope of -0.75";
         assertEquals(result, expected);
     }
 }
