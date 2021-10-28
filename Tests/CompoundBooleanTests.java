@@ -7,10 +7,10 @@ public class CompoundBooleanTests {
 
     @Test
     public void LoneTeenTests() {
-//        assertTrue(LoneTeen.loneTeen(0, 15));
-//        assertTrue(LoneTeen.loneTeen(13, 20));
-//        assertFalse(LoneTeen.loneTeen(-13, 0));
-//        assertFalse(LoneTeen.loneTeen(15, 15));
+        assertTrue(LoneTeen.loneTeen(0, 15));
+        assertTrue(LoneTeen.loneTeen(13, 20));
+        assertFalse(LoneTeen.loneTeen(-13, 0));
+        assertFalse(LoneTeen.loneTeen(15, 15));
     }
 
     @Test
